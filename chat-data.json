@@ -44,10 +44,14 @@
         "sender": "4174",
         "text": "Halo",
         "timestamp": "2025-09-09T10:30:38.213Z"
+      },
+      {
+        "id": "17574138516315485",
+        "sender": "5485",
+        "text": "Hehehe",
+        "timestamp": "2025-09-09T10:30:51.631Z"
       }
     ]
   },
-  "typingStatus": {
-    "5485": "4174"
-  }
+  "typingStatus": {}
 }
