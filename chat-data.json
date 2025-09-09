@@ -68,10 +68,14 @@
         "sender": "4174",
         "text": "Brot",
         "timestamp": "2025-09-09T10:32:00.937Z"
+      },
+      {
+        "id": "17574139329915485",
+        "sender": "5485",
+        "text": "Pantat besar banget mah yaallah",
+        "timestamp": "2025-09-09T10:32:12.991Z"
       }
     ]
   },
-  "typingStatus": {
-    "5485": "4174"
-  }
+  "typingStatus": {}
 }
