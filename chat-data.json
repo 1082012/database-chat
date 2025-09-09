@@ -108,8 +108,9 @@
       {
         "id": "17574299234085485",
         "sender": "5485",
-        "text": "Ha",
-        "timestamp": "2025-09-09T14:58:43.408Z"
+        "text": "Pesan ini telah dihapus",
+        "timestamp": "2025-09-09T14:58:43.408Z",
+        "isDeleted": true
       },
       {
         "id": "17574299464795485",
