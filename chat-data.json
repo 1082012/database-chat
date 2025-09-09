@@ -19,10 +19,13 @@
         "sender": "4918",
         "text": "Halo",
         "timestamp": "2025-09-09T10:13:20.590Z"
+      },
+      {
+        "sender": "4174",
+        "text": "Yoi",
+        "timestamp": "2025-09-09T10:13:27.817Z"
       }
     ]
   },
-  "typingStatus": {
-    "4174": "4918"
-  }
+  "typingStatus": {}
 }
