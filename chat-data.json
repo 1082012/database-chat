@@ -24,10 +24,13 @@
         "sender": "4174",
         "text": "Yoi",
         "timestamp": "2025-09-09T10:13:27.817Z"
+      },
+      {
+        "sender": "4918",
+        "text": "Wkwkkwk",
+        "timestamp": "2025-09-09T10:13:48.151Z"
       }
     ]
   },
-  "typingStatus": {
-    "4918": "4174"
-  }
+  "typingStatus": {}
 }
