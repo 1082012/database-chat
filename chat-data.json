@@ -29,10 +29,13 @@
         "sender": "4918",
         "text": "Wkwkkwk",
         "timestamp": "2025-09-09T10:13:48.151Z"
+      },
+      {
+        "sender": "4174",
+        "text": "Yuhu",
+        "timestamp": "2025-09-09T10:13:56.973Z"
       }
     ]
   },
-  "typingStatus": {
-    "4174": "4918"
-  }
+  "typingStatus": {}
 }
